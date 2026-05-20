@@ -192,3 +192,5 @@ Overall, sentiment is useful as a risk management filter, but it should not be u
 Vaibhav Mangla
 
 GitHub: [https://github.com/vaibhavmangla07](https://github.com/vaibhavmangla07)
+Linkedin: [https://www.linkedin.com/in/vaibhav-mangla-097b92219/]
+G-Mail: [vmangla0704@gmail.com]
