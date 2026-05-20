@@ -36,7 +36,7 @@ PrimeTrade.ai/
 │   └── historical_data.csv
 │
 ├── notebook/
-│   └── trader_sentiment_analysis.ipynb
+│   └── main.ipynb
 │
 ├── charts/
 │   ├── avg_pnl_by_sentiment.png
@@ -61,13 +61,13 @@ PrimeTrade.ai/
 
 ## Tools Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
 ---
 
@@ -115,15 +115,15 @@ Then I converted the timestamp columns into proper date format. After that, I me
 
 After merging, I created important metrics such as:
 
-* Total PnL
-* Average PnL
-* Win rate
-* Total trades
-* Average trade size
-* Trading volume
-* Fees
-* Long/short trade count
-* Drawdown proxy
+- Total PnL
+- Average PnL
+- Win rate
+- Total trades
+- Average trade size
+- Trading volume
+- Fees
+- Long/short trade count
+- Drawdown proxy
 
 These metrics were used to compare trader performance across different sentiment conditions.
 
@@ -167,10 +167,10 @@ It should be used as an extra risk management signal along with win rate, trade 
 
 The project includes:
 
-* Jupyter notebook
-* Output charts
-* Summary tables
-* Short analysis and recommendations
+- Jupyter notebook
+- Output charts
+- Summary tables
+- Short analysis and recommendations
 
 Charts are saved in the `charts/` folder.
 Summary tables are saved in the `summary_tables/` folder.
