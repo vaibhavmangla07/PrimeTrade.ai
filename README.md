@@ -1,5 +1,3 @@
-
-```markdown
 # Trader Performance vs Market Sentiment Analysis
 
 ## About the Project
@@ -194,7 +192,3 @@ Overall, sentiment is useful as a risk management filter, but it should not be u
 Vaibhav Mangla
 
 GitHub: [https://github.com/vaibhavmangla07](https://github.com/vaibhavmangla07)
-
-```
-
-```
