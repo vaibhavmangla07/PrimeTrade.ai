@@ -100,7 +100,7 @@ jupyter notebook
 Then open:
 
 ```text
-notebook/trader_sentiment_analysis.ipynb
+notebook/main.ipynb
 ```
 
 Run all cells from top to bottom.
